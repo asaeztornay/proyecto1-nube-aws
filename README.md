@@ -139,6 +139,3 @@ Completado mediante AWS CloudShell y AWS CLI.
 - Revisión humana: la IA generó una primera versión, pero se verificaron todos los nombres, CIDR, rutas y reglas de seguridad manualmente antes de usar el diagrama.
 - No se han compartido credenciales, claves privadas ni datos sensibles con la IA.
 
-## 7. Vídeo
-
-Enlace al vídeo: https://youtu.be/VPEpQG0mwLo
